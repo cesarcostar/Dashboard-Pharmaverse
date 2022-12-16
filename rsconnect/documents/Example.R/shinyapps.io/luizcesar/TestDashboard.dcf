@@ -1,0 +1,14 @@
+name: TestDashboard
+title: TestDashboard
+username:
+account: luizcesar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7815912
+bundleId: 6593274
+url: https://luizcesar.shinyapps.io/TestDashboard/
+when: 1670242747.16101
+lastSyncTime: 1670242747.16102
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|pharmaverse.R|tutorial.R
